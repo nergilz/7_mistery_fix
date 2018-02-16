@@ -14,8 +14,8 @@
 + функции вычисляют корни уравнения при обращении к ним
 
 ```python
-root1(a, b, discriminant)
-root2(a, b, discriminant)
+_root1(a, b, discriminant)
+_root2(a, b, discriminant)
 ```
 ---
 
